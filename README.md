@@ -1,5 +1,10 @@
 # AutoVideo-Agent
 
+<p align="center">
+  <img src="docs/assets/3d-banner.svg" alt="AutoVideo-Agent 3D banner" width="880" />
+</p>
+
+
 <!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
 <div align="center">
 
@@ -145,6 +150,22 @@ The runtime has no third-party dependencies. Never commit API keys, tokens, pass
 ## 中文文档
 
 [中文文档 -> README_CN.md](README_CN.md)
+
+
+---
+
+## 🧊 3D Visuals
+
+<p align="center">
+  <img src="docs/assets/3d-langs.svg" alt="AutoVideo-Agent — 3D language stack" width="800" />
+</p>
+
+Isometric 3D language stack computed from live GitHub language stats.
+Regenerate the graphics any time with the built-in generator — stdlib only, zero dependencies:
+
+```bash
+python tools/generate_3d_assets.py
+```
 
 ## License
 
